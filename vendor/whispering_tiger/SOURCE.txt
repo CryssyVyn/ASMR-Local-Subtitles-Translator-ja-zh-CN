@@ -1,0 +1,5 @@
+This directory contains the unmodified RouteTranscriptionQueue from:
+https://github.com/Sharrnah/whispering
+Commit: 9750c19a1eb4dde8309af6ee74888b28d0e27907
+Original author: Sharrnah. MIT license retained in LICENSE.
+The surrounding offline capture, Chinese UI and local ASMR model adapter are implemented separately.
